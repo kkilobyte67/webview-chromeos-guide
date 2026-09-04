@@ -41,4 +41,4 @@ Steps
 (h Now, finally, you can browse without any blocker extensions in your way!
 
 Please note that the browser window will disappear after roughly one minute.
-Also, I highly recommend you check out S-PScript's v123-v127 Incognito exploit writeup if you have flags enabled. Or if you don't, look at discussion #1146 or the ext-remover discussions for info on a new incognito exploit that works regardless of whether you have flags blocked (ps I tried it and only Securly and Securly Classroom were broken, so good luck)!
+Also, I highly recommend you check out S-PScript's v123-v127 Incognito exploit writeup if you have flags enabled. Or if you don't, look at discussion #1146 or the ext-remover discussions for info on a new incognito exploit that works regardless of whether you have flags blocked (ps I tried it and only Securly and Securly Classroom were broken, so good luck).
